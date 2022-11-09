@@ -6,4 +6,3 @@ age = 25
 name = "Roman"
 print("My name is "+str(name)+" and I am "+str(25)+" years old")
 yugyugyug
-print("ugugug")
